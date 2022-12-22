@@ -1,2 +1,2 @@
 # my-website
-created using HTML and CSS
+Basic Web application created using HTML and CSS
